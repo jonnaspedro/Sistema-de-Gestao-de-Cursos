@@ -1,2 +1,28 @@
-# Sistema-de-Gestao-de-Cursos
-Aplicação web desenvolvida em Spring Boot, contendo módulos de cadastro, consulta com filtros, atualização e exclusão para as entidades Aluno, Curso e Instituição, incluindo relacionamento obrigatório entre Aluno e Instituição. Projeto elaborado conforme requisitos da 4ª Unidade.
+# Sistema de Gestão Acadêmica
+
+Projeto desenvolvido para a 4ª Unidade, com foco no cadastro, consulta, edição e exclusão das entidades **Aluno**, **Curso** e **Instituição**.  
+O sistema inclui relacionamento entre Aluno e Instituição.
+
+## Turma
+2º Ano B
+
+## Integrantes do Grupo
+- Jonnas Pedro  
+- Caua Rocha  
+- Vitor Farias
+
+## Funcionalidades
+- Cadastro das três entidades  
+- Consulta com filtros  
+- Atualização e exclusão  
+- Associação Aluno → Instituição
+
+## Tecnologias Utilizadas
+- Spring Boot  
+- Spring MVC  
+- Spring Data JPA  
+- Thymeleaf
+
+## Licença
+Este projeto é disponibilizado sob a licença **MIT License**.  
+Você é livre para usar, modificar e distribuir este código, desde que mantenha o aviso de copyright.
