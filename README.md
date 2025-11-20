@@ -18,10 +18,6 @@ O sistema inclui relacionamento entre Aluno e Instituição.
 - Associação Aluno → Instituição
 
 ## Tecnologias Utilizadas
-- Spring Boot  
-- Spring MVC  
-- Spring Data JPA  
-- Thymeleaf
 
 ## Licença
 Este projeto é disponibilizado sob a licença **MIT License**.  
